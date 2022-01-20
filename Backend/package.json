@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A simple backend api server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "server",
+    "api",
+    "backend"
+  ],
+  "author": "Jafarscript",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
